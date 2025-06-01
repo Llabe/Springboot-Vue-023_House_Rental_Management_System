@@ -1,0 +1,2 @@
+# Springboot-Vue-023_House_Rental_Management_System
+基于SpringBoot+MyBatis Plus的房屋租赁管理系统，采用MySQL存储数据，实现管理员、屋主和用户三端协同管理。系统包含房屋管理、订单处理、保洁安保预约等核心功能，满足租赁全流程数字化管理需求。
