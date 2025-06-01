@@ -1,4 +1,4 @@
-# springboot080房屋租赁管理系统 / springboot080-House_Rental_Management_System
+# 房屋租赁管理系统 / House_Rental_Management_System
 
 
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-2.7+-brightgreen)
